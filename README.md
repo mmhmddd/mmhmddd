@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=00FF9D&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%26+AI+Engineer;Angular+%7C+Node.js+%7C+TensorFlow+%7C+PyTorch;Building+Scalable+Apps+%26+Intelligent+Systems;Microsoft+Certified+ML+Engineer;Open+for+Freelance+Opportunities" alt="Typing SVG Banner" />
+</div>
+
 # 💫 About Me
 
 Results-driven **Full-Stack Web Developer** and **AI & Machine Learning Engineer** with a proven track record of delivering scalable, high-performance applications and intelligent systems.  
@@ -12,10 +16,34 @@ Passionate about merging web technologies with artificial intelligence to create
 
 Let's build something extraordinary — feel free to reach out!
 
+## 🚀 Open for Freelance / Collaboration
+
+Available for projects in 2026:
+
+- **Web Applications** → Angular / React / Next.js + Node.js / NestJS / Laravel  
+- **AI & ML Solutions** → Computer Vision, Deep Learning Models, Custom AI Integrations  
+- **IoT & Hardware Projects** → Arduino, Raspberry Pi, Sensor-based Systems  
+- **Full Development Cycle** → From UI/UX design to deployment & maintenance  
+
+Flexible rates | Reliable delivery | Clean, documented code  
+📩 Let's discuss your project — DM on LinkedIn or email me directly!
+
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__muhmdd__)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-185255294)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.m.mahmoud29@gmail.com)
+
+## 🛠️ Skills Overview
+
+| Category              | Top Skills                                      | Proficiency          |
+|-----------------------|-------------------------------------------------|----------------------|
+| Frontend              | Angular, React, Next.js, Flutter, React Native | Advanced            |
+| Backend               | Node.js, NestJS, Laravel                       | Advanced            |
+| AI / ML / Data Science| TensorFlow, PyTorch, OpenCV, scikit-learn      | Advanced            |
+| Databases             | MySQL, MongoDB, Firebase, Supabase, DynamoDB   | Advanced            |
+| Cloud & DevOps        | AWS, Azure, Google Cloud, Docker, Netlify      | Intermediate-Advanced|
+| Hardware / IoT        | Arduino, Raspberry Pi, CMake                   | Intermediate        |
+| Design & Tools        | Figma, Canva, Power BI, Postman                | Intermediate        |
 
 # 💻 Tech Stack
 
@@ -75,8 +103,8 @@ Let's build something extraordinary — feel free to reach out!
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mmhmddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=mmhmddd&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=mmhmddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mmhmddd&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmhmddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
