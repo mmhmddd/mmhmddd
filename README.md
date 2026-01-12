@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=00FF9D&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%26+AI+Engineer;Angular+%7C+Node.js+%7C+TensorFlow+%7C+PyTorch;Building+Scalable+Apps+%26+Intelligent+Systems;Microsoft+Certified+ML+Engineer;Open+for+Freelance+Opportunities" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=00FF9D&center=true&vCenter=true&width=1100&lines=Full-Stack+%26+AI+Engineer;Angular+%2F+Node.js+%2F+TensorFlow;Scalable+Web+%26+Intelligent+Systems;Microsoft+ML+Certified;Freelance+Ready" alt="Typing Banner" />
 </div>
 
 # 💫 About Me
