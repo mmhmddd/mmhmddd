@@ -1,12 +1,18 @@
-# 💫 About Me:
-🚀 Full-Stack Web Developer specialized in **Angular** & **Node.js**  
-💾 Experienced with **MySQL**, **MongoDB**, and **Firebase**  
-🌍 Freelancer working with clients from the **Arab world** and **Europe**  
-🤖 **AI & Data Science Engineer** (Microsoft Machine Learning Engineer)  
-🧠 Built smart systems like **Blind Glasses**, **Smart Mirror**, and a **Fruit Classification Robot**  
-🔥 Passionate about building scalable web apps and intelligent AI-powered solutions
+# 💫 About Me
 
-## 🌐 Socials:
+Results-driven **Full-Stack Web Developer** and **AI & Machine Learning Engineer** with a proven track record of delivering scalable, high-performance applications and intelligent systems.  
+
+Specialized in **Angular**, **Node.js**, and modern JavaScript ecosystems for robust frontend/backend development, combined with **Microsoft-certified Machine Learning expertise** to build AI-powered solutions that solve real-world problems.
+
+- 🔹 Developed innovative AI systems including **computer-vision-enabled Blind Glasses** for the visually impaired, an interactive **Smart Mirror** with real-time data overlays, and a **Fruit Classification Robot** using deep learning models.  
+- 🔹 Experienced across relational (MySQL) and NoSQL (MongoDB, Firebase) databases, cloud infrastructure, and DevOps practices.  
+- 🔹 Freelancer collaborating with clients across the **Arab world** and **Europe**, delivering clean, maintainable code on time and within budget.  
+
+Passionate about merging web technologies with artificial intelligence to create impactful, user-centered products. Open to exciting freelance opportunities, collaborations, and innovative challenges.
+
+Let's build something extraordinary — feel free to reach out!
+
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__muhmdd__)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-185255294)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.m.mahmoud29@gmail.com)
@@ -68,22 +74,25 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mmhmddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=mmhmddd&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmhmddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mmhmddd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mmhmddd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🚀 Featured Projects & Innovations
+Here are some highlights of my work — blending full-stack development with AI to create meaningful solutions:
+
+- **Blind Glasses** — AI-powered wearable using computer vision (OpenCV + TensorFlow) to assist the visually impaired with real-time object & text detection.  
+- **Smart Mirror** — Interactive mirror displaying personalized info (weather, calendar, news) with voice/gesture controls built on Raspberry Pi + web tech.  
+- **Fruit Classification Robot** — Robotic system using deep learning models (PyTorch/TensorFlow) for accurate fruit sorting — deployed with hardware integration.  
+
+More projects and source code available in my repositories. Interested in similar custom AI/web solutions? Let's talk!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mmhmddd&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mmhmddd&icon=0&color=0)
 
 ## 💳 Financial Accounts
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muhmdmahmoud29)
